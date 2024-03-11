@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+h1 #countdown{
+    display: list-item;
+    padding: 30px;
+    display: center;
+}
+#countdown {
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+html{
+    background-image:url('clock.jpg');
+    background-size: cover;  
+}
